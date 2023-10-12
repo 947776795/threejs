@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/threejs/static/css/main.6c462b9b.css",
+    "main.js": "/threejs/static/js/main.b6d91ef9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/threejs/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/threejs/index.html",
+    "main.6c462b9b.css.map": "/threejs/static/css/main.6c462b9b.css.map",
+    "main.b6d91ef9.js.map": "/threejs/static/js/main.b6d91ef9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/threejs/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c462b9b.css",
+    "static/js/main.b6d91ef9.js"
+  ]
+}

@@ -117,6 +117,7 @@ void main() {
   gl_FragColor = vec4(color, 1.0);
   
   // color based on diffuseMap
+  // 模型的问题加载的不太对
   // vec3 diffuse = texture2D(uDiffuse, vUv).rgb;
   // diffuse.r = pow(diffuse.r, uGlassColorIntensity);
   // diffuse.g = pow(diffuse.g, uGlassColorIntensity);

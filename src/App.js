@@ -22,6 +22,8 @@ const Geometries = () => {
     // '/okcc-bg.jpeg'
   ])
   const textureLoader = new THREE.TextureLoader();
+  // 加载/okcc-bg.jpeg 显示的不太对
+  // 并且加载的纹理颜色感觉有问题
   // 加载背景图片
   const texture = textureLoader.load('/2.png');
   console.log(texture,'texturetexture')
